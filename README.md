@@ -3,15 +3,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maspio&label=Profile%20views&color=0e75b6&style=flat" alt="maspio" /> </p>
 
+<h3 align="left">Github</h3>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maspio" alt="maspio" /></a> </p>
 
 <h3 align="left">Codersank</h3>
-https://profile.codersrank.io/user/pici-masp/
+
 <p align="left"> 
-  <a href="https://profile.codersrank.io/user/pici-masp/">
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pici-masp&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="80%"  alt="codersank profile pici-masp"/>
+  <a href="https://profile.codersrank.io/user/pici-masp">
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pici-masp&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="80%"  alt="codersank ranking summary"/>
   </a>
 </p>
+
+<h4 align="left">Activity</h4>
+
+<p align="left"> 
+  <a href="https://profile.codersrank.io/user/pici-masp">
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=YOUR_USERNAME&labels=true" alt="codersank activity"/>
+  </a>
+</p>
+
 
 <h3 align="left">Currently I am</h3>
 
