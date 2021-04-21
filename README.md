@@ -19,7 +19,7 @@
 
 <p align="left"> 
   <a href="https://profile.codersrank.io/user/pici-masp">
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=YOUR_USERNAME&labels=true" alt="codersank activity"/>
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=pici-masp&labels=true" alt="codersank activity"/>
   </a>
 </p>
 
