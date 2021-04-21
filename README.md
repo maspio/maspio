@@ -13,7 +13,9 @@ https://profile.codersrank.io/user/pici-masp/
   </a>
 </p>
 
-- 🔭 I’m currently working on **A web app for the VBB GmbH**
+<h3 align="left">Currently I am</h3>
+
+- 🔭 working on **A web app for the VBB GmbH**
 
 - 💬 Ask me about **typescript, node, express, vue, nuxt, nestjs, docker, terraform**
 
