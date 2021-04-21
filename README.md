@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maspio" alt="maspio" /></a> </p>
 
-<p align="left"> <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pici-masp&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/> </p>
+<p align="left"> <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pici-masp&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="80%"/> </p>
 
 - 🔭 I’m currently working on **A web app for the VBB GmbH**
 
