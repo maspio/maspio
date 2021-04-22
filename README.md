@@ -11,7 +11,7 @@
 
 <p align="left"> 
   <a href="https://profile.codersrank.io/user/pici-masp">
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pici-masp&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="80%"  alt="codersank ranking summary"/>
+  <img src="./coderrank.png" width="80%"  alt="codersank ranking summary"/>
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 <p align="left"> 
   <a href="https://profile.codersrank.io/user/pici-masp">
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=pici-masp&labels=true" alt="codersank activity"/>
+  <img src="./coderrank_activity.png"/>
   </a>
 </p>
 
