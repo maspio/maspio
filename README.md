@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcus</h1>
-<h3 align="center">A fullstack developer and business owner from Berlin Germany</h3>
+<h3 align="center">A Partner Engineer at n8n GmbH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maspio&label=Profile%20views&color=0e75b6&style=flat" alt="maspio" /> </p>
 
@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **typescript, node, express, vue, nuxt, nestjs, docker, terraform**
 
-- 📄 Know about my experiences [https://picibird.com](https://picibird.com)
+- 📄 Know about my experiences [https://linkedin.com/in/ma-sp](https://linkedin.com/in/ma-sp/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
